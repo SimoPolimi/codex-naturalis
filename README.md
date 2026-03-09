@@ -1,11 +1,13 @@
-# Prova Finale Ing Sw Polimi A.A. 2023-2024
+# Codex Naturalis
 <h1 align="center">
   <br>
   <img src = "/Screenshots/Logo.png" alt="CodexNaturalis" width="200"></a>
-  <br>
-  <span style="font-family: 'Lucida Handwriting', cursive; font-size: 2em;">Codex Naturalis</span>
-  <br>
 </h1>
+
+## Project
+
+Codex Naturalis is a digital implementation of the homonymous board game published by Cranio Creations, developed as the final project for the Software Engineering course at Politecnico di Milano (A.Y. 2023-2024).
+The game was built in Java by a team of 4 students, following a Model-View-Controller (MVC) architecture and supporting both a Graphical User Interface (GUI with JavaFX) and a Terminal User Interface (TUI). Networking is handled via Java RMI and Socket, allowing multiple players to connect and play simultaneously across different machines.
 
 ## Contributors
 
