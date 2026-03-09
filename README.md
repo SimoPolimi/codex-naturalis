@@ -1,6 +1,6 @@
-# Codex Naturalis
 <h1 align="center">
-  <br>
+	Codex Naturalis
+    <br>
   <img src = "/Screenshots/Logo.png" alt="CodexNaturalis" width="200"></a>
 </h1>
 
