@@ -1,7 +1,7 @@
 # Prova Finale Ing Sw Polimi A.A. 2023-2024
 <h1 align="center">
   <br>
-  <img src = "https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Logo.png" alt="CodexNaturalis" width="200"></a>
+  <img src = "/Screenshots/Logo.png" alt="CodexNaturalis" width="200"></a>
   <br>
   <span style="font-family: 'Lucida Handwriting', cursive; font-size: 2em;">Codex Naturalis</span>
   <br>
@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Coverage.png" alt="Diagram Image">
+      <img src="/Screenshots/Coverage.png" alt="Diagram Image">
     </td>
   </tr>
 </table>
@@ -170,17 +170,17 @@ Then, press ```Play``` to see a list of all the available matches, and choose to
 From the Launcher, select ```Textual Mode``` to open the Terminal User Interface. Alternatively, TUI can be directly launched directly from Terminal, or from the Terminal's Launcher (see Instructions). Once there, you will be asked to pick one of the 3 Graphics Modes supported by TUI:
 
 
-<img align="right" width="130" src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Fancy_Mode.png" alt="Fancy Mode">
+<img align="right" width="130" src="/Screenshots/Fancy_Mode.png" alt="Fancy Mode">
 
 - **Fancy Mode**
   Uses the full Unicode charset to display the UI using unique characters, colors and emojis. Not all Terminals support this mode: please make sure you can see the full Card in the beginning, otherwise choose another Mode.
 
-<img align="right" width="130" src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Enhanced_Mode.png" alt="Enhanced Mode">
+<img align="right" width="130" src="/Screenshots/Enhanced_Mode.png" alt="Enhanced Mode">
   
 - **Enhanced Mode**
   Uses the standard charset, to be more widely compatible, but adds a bit of personality using colors. Most Terminals out there should support the Unicode colors, so it's highly likely that this Mode works correctly, but if you have problems visualizing the test Card, please consider using the Mode that works best.
   
-<img align="right" width="130" src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Standard_Mode.png" alt="Standard Mode">
+<img align="right" width="130" src="/Screenshots/Standard_Mode.png" alt="Standard Mode">
   
 - **Standard Mode**
   Uses the standard charset without any colors or additional feature. This ensures it will be compatible with virtually any Terminal and font out there. The Test Card for this Mode looks exactly like the one for Enhanced Mode, but with no colors.
@@ -193,33 +193,33 @@ After choosing the Graphics Mode, TUI will guide you through the initial onboard
 ### GUI
 
 <div align="center">
-  <img width="290" src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Launcher.png" alt="Launcher GUI">
-  <img width="600" src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Login_GUI.png" alt="Login GUI">
+  <img width="290" src="/Screenshots/Launcher.png" alt="Launcher GUI">
+  <img width="600" src="/Screenshots/Login_GUI.png" alt="Login GUI">
 </div>
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Tokens_GUI.png" alt="Token Selector in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Secret_Objective_GUI.png" alt="Secret Objective Selector in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Starter_Card_GUI.png" alt="Starter Card Selector in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Table_GUI.png" alt="Player's Table in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Play_Card_GUI.png" alt="Player playing a Card in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Common_Table_GUI.png" alt="Common Table in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Full_Table_GUI.png" alt="Full Table or GLobal View in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Chat_GUI.png" alt="Chat in GUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/End_Game_GUI.png" alt="End Game in GUI">
+<img src="/Screenshots/Tokens_GUI.png" alt="Token Selector in GUI">
+<img src="/Screenshots/Secret_Objective_GUI.png" alt="Secret Objective Selector in GUI">
+<img src="/Screenshots/Starter_Card_GUI.png" alt="Starter Card Selector in GUI">
+<img src="/Screenshots/Table_GUI.png" alt="Player's Table in GUI">
+<img src="/Screenshots/Play_Card_GUI.png" alt="Player playing a Card in GUI">
+<img src="/Screenshots/Common_Table_GUI.png" alt="Common Table in GUI">
+<img src="/Screenshots/Full_Table_GUI.png" alt="Full Table or GLobal View in GUI">
+<img src="/Screenshots/Chat_GUI.png" alt="Chat in GUI">
+<img src="/Screenshots/End_Game_GUI.png" alt="End Game in GUI">
 
 ### TUI
 
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Game_Mode_TUI.png" alt="Graphics Mode Selector in TUI">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Tokens_TUI_Fancy.png" alt="Tokens Selector in TUI in Fancy Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Tokens_TUI_Enhanced.png" alt="TOkens Selector in TUI in Enhanced Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Secret_Objective_Starter_Card_TUI_Fancy.png" alt="Secret Objective and Starter Card Selectors in TUI in Fancy Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Secret_Objective_Starter_Card_TUI_Enhanced.png" alt="Secret Objective and Starter Card Selectors in TUI in Enhanced Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Full_Table_TUI_Fancy.png" alt="Full Table View in TUI in Fancy Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Full_Table_TUI_Enhanced.png" alt="Full Table View in TUI in Enhanced Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Play_Card_TUI_Fancy.png" alt="Player playing a Card in TUI in Fancy Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Play_Card_TUI_Enhanced.png" alt="Player playing a Card in TUI in Enhanced Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Draw_Grab_TUI_Fancy.png" alt="Common Table actions in TUI in Fancy Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/Draw_Grab_TUI_Enhanced.png" alt="Common Table actions in TUI in Enhanced Mode">
-<img src="https://github.com/SimoPolimi/ing-sw-2024-rodari-summa-rodigari-pignataro/blob/main/Screenshots/End_Game_TUI.png" alt="End Game in TUI">
+<img src="/Screenshots/Game_Mode_TUI.png" alt="Graphics Mode Selector in TUI">
+<img src="/Screenshots/Tokens_TUI_Fancy.png" alt="Tokens Selector in TUI in Fancy Mode">
+<img src="/Screenshots/Tokens_TUI_Enhanced.png" alt="TOkens Selector in TUI in Enhanced Mode">
+<img src="/Screenshots/Secret_Objective_Starter_Card_TUI_Fancy.png" alt="Secret Objective and Starter Card Selectors in TUI in Fancy Mode">
+<img src="/Screenshots/Secret_Objective_Starter_Card_TUI_Enhanced.png" alt="Secret Objective and Starter Card Selectors in TUI in Enhanced Mode">
+<img src="/Screenshots/Full_Table_TUI_Fancy.png" alt="Full Table View in TUI in Fancy Mode">
+<img src="/Screenshots/Full_Table_TUI_Enhanced.png" alt="Full Table View in TUI in Enhanced Mode">
+<img src="/Screenshots/Play_Card_TUI_Fancy.png" alt="Player playing a Card in TUI in Fancy Mode">
+<img src="/Screenshots/Play_Card_TUI_Enhanced.png" alt="Player playing a Card in TUI in Enhanced Mode">
+<img src="/Screenshots/Draw_Grab_TUI_Fancy.png" alt="Common Table actions in TUI in Fancy Mode">
+<img src="/Screenshots/Draw_Grab_TUI_Enhanced.png" alt="Common Table actions in TUI in Enhanced Mode">
+<img src="/Screenshots/End_Game_TUI.png" alt="End Game in TUI">
 
 ## Disclaimer
 ### 🇮🇹
